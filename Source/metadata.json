@@ -7,5 +7,12 @@
     "water collection",
     " rain harvesting"
   ],
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 2922,
+  "LinesOfXML": 15355,
+  "CodeBaseSize": 68,
+  "LastXmlCleaning": "2025-07-06T21:25:53.2804832+02:00"
 }

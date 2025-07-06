@@ -1,4 +1,4 @@
-# [Atmospheric Water Collection (Continued)]()
+# [Atmospheric Water Collection (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3377426469)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -52,4 +52,4 @@ While researching AWG's I came across so many scams. I swear this fancy name was
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/AtmosphericWaterCollection?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) | tags: water collection,  rain harvesting
+[![Image](https://img.shields.io/github/v/release/emipa606/AtmosphericWaterCollection?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3377426469) | tags: water collection,  rain harvesting

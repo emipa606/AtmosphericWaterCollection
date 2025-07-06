@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Atmospheric Water Generator -->
+  <ThingDef_AWG.label>Atmospheric Water Generator</ThingDef_AWG.label>
+  <!-- EN: A side effect of air-conditioner cooling is the water drawn out through evaporator coils. An Atmospheric Water Generator takes advantage of this effect to draw and filter as much water from the ambient humidity as possible. This will never produce as much water as other options but it works to some degree in almost all weather patterns. -->
+  <ThingDef_AWG.description>A side effect of air-conditioner cooling is the water drawn out through evaporator coils. An Atmospheric Water Generator takes advantage of this effect to draw and filter as much water from the ambient humidity as possible. This will never produce as much water as other options but it works to some degree in almost all weather patterns.</ThingDef_AWG.description>
+  <!-- EN: Fog catcher -->
+  <ThingDef_FogCatcher.label>Fog catcher</ThingDef_FogCatcher.label>
+  <!-- EN: A net aimed at catching the water held within fog. This can also take advantage of rain though to a lesser extent than a dedicated tank. -->
+  <ThingDef_FogCatcher.description>A net aimed at catching the water held within fog. This can also take advantage of rain though to a lesser extent than a dedicated tank.</ThingDef_FogCatcher.description>
+  <!-- EN: Rain catchment -->
+  <ThingDef_RainCatchment.label>Rain catchment</ThingDef_RainCatchment.label>
+  <!-- EN: Simple sheet metal angled over an open pipe. Will catch the rain to fill storage systems. -->
+  <ThingDef_RainCatchment.description>Simple sheet metal angled over an open pipe. Will catch the rain to fill storage systems.</ThingDef_RainCatchment.description>
+  <!-- EN: Rain water tank -->
+  <ThingDef_RainWaterTank.label>Rain water tank</ThingDef_RainWaterTank.label>
+  <!-- EN: A storage tank for rainfall. Works better the stronger the downpour. -->
+  <ThingDef_RainWaterTank.description>A storage tank for rainfall. Works better the stronger the downpour.</ThingDef_RainWaterTank.description>
+</LanguageData>

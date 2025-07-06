@@ -12,23 +12,20 @@ public class WaterReciever : Building_Butt
     {
         get
         {
-            if (defModExtension == null)
-            {
-                defModExtension = def.GetModExtension<DefModExtension_Hygiene>();
-            }
+            defModExtension ??= def.GetModExtension<DefModExtension_Hygiene>();
 
             return defModExtension;
         }
     }
 
-    public bool WorkingNow =>
+    private bool WorkingNow =>
         FlickUtility.WantsToBeOn(this) &&
         (powerComp == null ||
          powerComp.PowerOn) && (!defModExtension.forbidRoof ||
                                 !RoofUtility.IsAnyCellUnderRoof(
                                     this));
 
-    public int tick => Find.TickManager.TicksGame;
+    private static int tick => Find.TickManager.TicksGame;
 
     public override void Tick()
     {
