@@ -53,8 +53,8 @@
             <water>0.75</water>
           </li>
           <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_Monsoon</weatherDef>
-            <water>1.25</water>
+            <weatherDef>RG_FogStorm</weatherDef>
+            <water>0.75</water>
           </li>
           <li MayRequire="ReGrowth.BOTR.Core">
             <weatherDef>RG_Drizzle</weatherDef>
@@ -132,20 +132,16 @@
             <water>0.166</water>
           </li>
           <li MayRequire="ReGrowth.BOTR.Core">
+            <weatherDef>RG_FogStorm</weatherDef>
+            <water>0.75</water>
+          </li>
+          <li MayRequire="ReGrowth.BOTR.Core">
             <weatherDef>RG_FoggySnow</weatherDef>
             <water>0.083</water>
           </li>
           <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_Monsoon</weatherDef>
-            <water>0.75</water>
-          </li>
-          <li MayRequire="ReGrowth.BOTR.Core">
             <weatherDef>RG_Drizzle</weatherDef>
             <water>0.33</water>
-          </li>
-          <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_FoggySandstorm</weatherDef>
-            <water>0.083</water>
           </li>
           <li MayRequire="SirMashedPotato.MorrowRim">
             <weatherDef>MorrowRim_FoggyAshfall</weatherDef>
@@ -217,10 +213,6 @@
       <li Class="HygieneAddon.DefModExtension_Hygiene">
         <!-- value per second -->
         <weatherDefCounts>
-          <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_Monsoon</weatherDef>
-            <water>0.25</water>
-          </li>
           <li>
             <weatherDef>RainyThunderstorm</weatherDef>
             <water>0.25</water>
@@ -238,8 +230,8 @@
             <water>0.25</water>
           </li>
           <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_Overcast</weatherDef>
-            <water>0.25</water>
+            <weatherDef>RG_FogStorm</weatherDef>
+            <water>0.75</water>
           </li>
           <li MayRequire="ReGrowth.BOTR.Core">
             <weatherDef>RG_Windy</weatherDef>
@@ -257,10 +249,6 @@
             <weatherDef>RG_FoggySnow</weatherDef>
             <water>0.1667</water>
           </li>
-          <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_SandStorm</weatherDef>
-            <water>0.05</water>
-          </li>
           <li>
             <weatherDef>SnowHard</weatherDef>
             <water>0.0167</water>
@@ -270,23 +258,7 @@
             <water>0.0167</water>
           </li>
           <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_Hail</weatherDef>
-            <water>0.0167</water>
-          </li>
-          <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_Blizzard</weatherDef>
-            <water>0.0167</water>
-          </li>
-          <li MayRequire="ReGrowth.BOTR.Core">
             <weatherDef>RG_Drizzle</weatherDef>
-            <water>0.33</water>
-          </li>
-          <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_FoggySandstorm</weatherDef>
-            <water>0.33</water>
-          </li>
-          <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_SandStormHard</weatherDef>
             <water>0.33</water>
           </li>
           <li MayRequire="SirMashedPotato.MorrowRim">
@@ -392,10 +364,6 @@
           <li>
             <weatherDef>FoggyRain</weatherDef>
             <water>0.3</water>
-          </li>
-          <li MayRequire="ReGrowth.BOTR.Core">
-            <weatherDef>RG_Monsoon</weatherDef>
-            <water>0.60</water>
           </li>
           <li MayRequire="ReGrowth.BOTR.Core">
             <weatherDef>RG_Drizzle</weatherDef>
